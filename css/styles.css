@@ -1,0 +1,400 @@
+html {
+    height: 100%;
+}
+body{
+	min-height: 100%;
+    margin: 0px;
+    font-family: 'Barlow', sans-serif;
+	font-weight: normal;
+    font-style: normal;
+	padding: 0px;
+}
+.col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9
+{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.row {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+.container{
+	padding-left: 0px;
+	padding-right: 0px;
+	text-align: center;
+}
+
+.sectionone
+{
+	background: url('../images/topbannernew.png')no-repeat;
+	width: 100%;
+	height: 600px;
+	background-size: 100% 100%;
+	background-position: top center;
+	position: relative;
+	padding: 150px 0px 50px 0px;
+}
+.logo
+{
+	margin: 0px 0px 50px 0px;
+	text-align: left;
+}
+
+.bannerconent h1{
+	color: #0d3b60;
+	font-size: 35px;
+	text-align: left;
+}
+.bannerconent h1 span{
+	display: block;
+}
+
+.bannerconent p{
+	color: #4e5251;
+	letter-spacing: 0.5px;
+	padding-top: 15px;
+	text-align: left;
+}
+.video{
+	width: 100%;
+}
+
+.sectionthree{
+	background: url('../images/sectionthree.png')no-repeat;
+	width: 100%;
+	height: 1549px;
+	background-size: cover;
+	position: relative;
+	background-position: top center;
+}
+
+.sectionthree h2{
+	color: #435f65;
+	margin: 70px 0px 40px 0px;
+}
+
+.sectionthree p{
+	color: #1d1d1b;
+	letter-spacing: 1.5px;
+	margin-right: 70px;
+	text-align: justify;
+}
+
+.icon1{
+	margin: 70px 0px 50px 100px;
+}
+
+.icon2{
+	margin: 70px 0px 50px 100px;
+}
+
+.icon3{
+	margin-top: 100px;
+}
+.icon4{
+	margin-top: 100px;
+}
+
+.four{
+	margin-top: 100px;
+}
+.four p{
+	margin-top: 50px;
+	margin-bottom: 100px;
+}
+
+.sectionfour h1 span{
+	display: block;
+	margin-left: 20px;
+}
+.sectionfour h1 {
+	margin-left: 20px;
+	color: #26464d;
+}
+.sectionfour h2 {
+	margin-left: 20px;
+	color: #26464d;
+}
+.four1{
+	margin: 50px 200px 50px 50px;
+}
+.four2{
+	margin: 50px 50px 50px 120px;
+}
+.four3{
+	margin: 50px 50px 50px 50px;
+}
+.four4{
+	margin: 50px 50px 120px 120px;
+}
+
+.sectionfive{
+	background-color: #0e3c61;
+	width: 100%;
+	height: auto;
+	padding: 50px 0px 70px 0px;
+	position: relative;
+}
+.sectionfive h1{
+	color: white;
+}
+.five1{
+	background-color: #092f4d;
+	width: 90%;
+	height: 400px;
+	margin-top: 50px;
+}
+.five1 img{
+	margin-top: 30px;
+}
+.five1 h4{
+	color: #a6dcd6;
+	margin: 20px 0px 30px;
+}
+.five1 p{
+	color: white;
+	padding: 10px 10px 0px 10px;
+}
+.five2{
+	background-color: #092f4d;
+	width: 90%;
+	height: 400px;
+	margin-top: 50px;
+}
+.five2 img{
+	margin-top: 30px;
+}
+.five2 h4{
+	color: #a6dcd6;
+	margin: 20px 0px 30px;
+}
+.five2 p{
+	color: white;
+	padding: 10px 10px 0px 10px;
+}
+.five3{
+	background-color: #092f4d;
+	width: 90%;
+	height: 400px;
+	margin-top: 50px;
+}
+.five3 img{
+	margin-top: 30px;
+}
+.five3 h4{
+	color: #a6dcd6;
+	margin: 20px 0px 30px;
+}
+.five3 p{
+	color: white;
+	padding: 20px 10px 0px 10px;
+}
+
+.sectionsix h2{
+	text-align: left;
+	margin: 90px 0px 20px 0px;
+}
+.sectionsix h5{
+	text-align: left;
+	margin: 30px 0px 20px 0px;
+}
+.sectionsix p{
+	text-align: left;
+	margin: 20px 0px 20px 0px;
+}
+.sectionsix h6{
+	text-align: left;
+	color: #1d71b8;
+	margin-bottom: 70px;
+}
+.six1{
+	margin: 150px 0px 0px 150px;
+}
+.six1-1{
+	border-left: 1px solid;
+	padding-left: 20px;
+}
+.requestbtn{
+	background: #f27348;
+  color: #fff;
+  padding: 8px 20px;
+  border-radius: 0px;
+  margin: 10px 0px;
+  width: 250px;
+	font-size: 20px;
+	border: 0px;
+}
+.box{
+	width: 250px;
+  margin: 70px 0px 0px 70px;
+	border-radius: 0px;
+}
+.box input{
+  margin: 30px 0px;
+  padding: 10px;
+  border: none;
+}
+.box textarea{
+  margin: 30px 10px;
+}
+.footer{
+	background-color: #ededed;
+	padding: 15px 0px 15px 0px;
+}
+.foot1{
+	text-align: left;
+}
+.foot2{
+	text-align: right;
+}
+.form-control
+{
+	font-style: italic;
+}
+@media (min-width: 1400px) and (max-width: 1560px)
+{
+
+}
+
+@media (min-width: 1200px) and (max-width: 1330px)
+{
+
+
+}
+
+
+@media (min-width: 993px) and (max-width: 1199px)
+{
+
+	.icon1,.icon2
+	{
+		margin: 10px auto;display: block;
+		
+	}
+	.icon1 img,.icon2 img
+	{
+		width: 100%;padding: 10px;;
+	}
+}
+
+
+@media (min-width: 768px) and (max-width: 992px)
+{
+
+	.sectionone,.sectionthree
+{
+	height: auto;
+	padding: 30px 20px;
+}
+.box
+{
+	width: 100%;
+	margin: 20px 0px;
+}
+.icon1,.icon2
+{
+	margin: 10px auto;display: block;
+	
+}
+.icon1 img,.icon2 img
+{
+	width: 100%;padding: 10px;;
+}
+.sectionthree h2
+{
+	margin: 10px 0px;
+}
+.sectionthree p
+{
+	margin: 0px 0px 30px 0px;
+
+}
+.icon3 img,.icon4 img
+{
+	width: 100%;
+}
+.four1,.four2,.four3,.four4
+{
+	margin: 0px;
+}
+.five2,.five1,.five3
+{
+	margin: 10px auto;display: block;
+	height: 450px;
+}
+.sectionsix
+{
+	padding: 20px;
+}
+.six1
+{
+	margin: 0px;
+}
+.sectionsix h2
+{
+	margin: 0px;
+}
+
+}
+
+
+
+
+@media (max-width: 767px)
+{
+	.sectionone,.sectionthree
+{
+	height: auto;
+	padding: 30px 20px;
+}
+.box
+{
+	width: 100%;
+	margin: 20px 0px;
+}
+.icon1,.icon2
+{
+	margin: 10px auto;display: block;
+}
+.sectionthree h2
+{
+	margin: 10px 0px;
+}
+.sectionthree p
+{
+	margin: 0px 0px 30px 0px;
+
+}
+.icon3 img,.icon4 img
+{
+	width: 100%;
+}
+.four1,.four2,.four3,.four4
+{
+	margin: 0px;
+}
+.five2,.five1,.five3
+{
+	margin: 10px auto;display: block;
+}
+.sectionsix
+{
+	padding: 20px;
+}
+.six1
+{
+	margin: 0px;
+}
+.sectionsix h2
+{
+	margin: 0px;
+}
+.footer
+{
+	padding: 20px;
+}
+.foot1,.foot2
+{
+	text-align: center;
+}
+}
